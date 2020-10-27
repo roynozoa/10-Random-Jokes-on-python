@@ -1,4 +1,4 @@
-# Python 10 random jokes
+# Python - 10 random jokes
 # thanks to random joke API (https://github.com/15Dkatz/official_joke_api)
 # make API call and working with json object
 # using python text to speech library (pyttsx3)
